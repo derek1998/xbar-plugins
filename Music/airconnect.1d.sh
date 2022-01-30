@@ -8,7 +8,7 @@
 #
 
 readonly path="/Applications/"
-readonly processName="aircast-osx-multi"
+readonly processName="airupnp-osx-multi"
 
 #
 # NOTE: These values cannot contain single or double quotation marks.
